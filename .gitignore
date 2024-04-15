@@ -1,6 +1,2 @@
 # Ignore Mac system files
 .DS_store
-
-# Ignore data, since files are too big for GitHub, user will have to get data from this website: 
-# https://kelvins.esa.int/collision-avoidance-challenge/data/
-.csv
