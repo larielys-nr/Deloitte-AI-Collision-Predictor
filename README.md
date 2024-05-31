@@ -9,7 +9,7 @@ https://newspaceatberkeley.wixsite.com/newspaceatberk-deloi
 
 Name of all the Models and links to them:
 - [Basics](Basics.ipynb): Covers all the basics of creating and running ML models in sci-kit learn
-- [Ensemble](Ensemble.ipynb): Includes the ensembled models. The save files for models used in the ensemble can be found in /Main/Saved Models
+- [Ensemble](Ensemble.ipynb): Includes the ensembled models. The save files for models used in the ensemble can be found in [here](Model%20Files)
 - [Random Forest](RandomForest_V4.ipynb): Random Forest Model, which was much more complex to create than basic ones
 - [Demo](Demo.ipynb): Includes the Demo of the Final Ensembled Model
 - Other Models:
