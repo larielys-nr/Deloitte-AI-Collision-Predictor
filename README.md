@@ -12,7 +12,7 @@ Name of all the Models and links to them:
 - [Ensemble](Ensemble.ipynb): Includes the ensembled models. The save files for models used in the ensemble can be found in /Main/Saved Models
 - [Random Forest](RandomForest_V4.ipynb): Random Forest Model, which was much more complex to create than basic ones
 - [Demo](Demo.ipynb): Includes the Demo of the Final Ensembled Model
-- Other Models
+- Other Models:
   -  [Lasso](Model%20Files/Lasso_v2.ipynb)
   -  [Elastic Net](Model%20Files/ElasticNet.ipynb)
   -  [Linear Regression](Model%20Files/Regression.ipynb)
