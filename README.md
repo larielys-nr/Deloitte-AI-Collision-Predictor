@@ -9,4 +9,8 @@ https://newspaceatberkeley.wixsite.com/newspaceatberk-deloi
 
 We want to thank the entire Deloitte team for providing us this opportunity and continuously supporting us throughout the project.
 
-!()
+
+<p float="left">
+  <img src="https://github.com/rakeshvmehta/Deloitte-AI-Collision-Predictor/blob/main/untitled%20folder/Deloitte.png?raw=true" width="400">
+  <img src="https://github.com/rakeshvmehta/Deloitte-AI-Collision-Predictor/blob/main/untitled%20folder/NewSpace.png?raw=true" width="400">
+</p>
