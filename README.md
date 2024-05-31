@@ -7,6 +7,12 @@ Please check the "Deloitte_ AI Project Descprition.pdf" for the full project des
 Access the FrontEnd (design) of the concept for client Dashboard:
 https://newspaceatberkeley.wixsite.com/newspaceatberk-deloi
 
+Name of all the Models and which files they are stored in:
+- Basics.ipynb: Covers all the basics of creating and running ML models in sci-kit learn
+- Ensemble.ipynb: Includes the ensembled models. The save files for these models can be found in /Main/Saved Models
+- RandomForest_V4.ipynb: Random Forest Model, which was much more complex to create than basic ones
+- Demo.ipynb: Includes the Demo of the Final Ensembled Model
+
 We want to thank the entire Deloitte team for providing us this opportunity and continuously supporting us throughout the project.
 
 
